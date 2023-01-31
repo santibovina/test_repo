@@ -50,3 +50,6 @@ screen.onkey(fun=move_right, key="d")
 screen.onkey(fun=jump, key="space")
 screen.onkey(fun=back_home, key="q")
 screen.onkey(fun=clear, key="c")
+
+
+turtle.exitonclick()
