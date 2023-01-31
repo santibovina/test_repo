@@ -52,4 +52,4 @@ screen.onkey(fun=back_home, key="q")
 screen.onkey(fun=clear, key="c")
 
 
-turtle.exitonclick()
+screen.exitonclick()
