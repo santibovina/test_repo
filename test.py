@@ -5,6 +5,7 @@ timmy = Turtle()
 screen = Screen()
 screen.listen()
 timmy.setheading(90)
+timmy.color("orange")
 
 
 
